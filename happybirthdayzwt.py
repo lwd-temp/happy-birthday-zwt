@@ -1,5 +1,8 @@
 #! /usr/bin/env python
 # coding=utf-8
+# HappyBirthdayZwt
+# Author:LWD
+# This code is used as an Easter Egg.
 def main():
     from datetime import datetime
     date=datetime.today()
