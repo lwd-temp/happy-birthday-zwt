@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 # coding=utf-8
-# HappyBirthdayZwt
+# HappyBirthdayZWT
 # Author:LWD
 # This code is used as an Easter Egg.
 def main():
