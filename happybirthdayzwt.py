@@ -5,6 +5,7 @@
 # This code is used as an Easter Egg.
 def main():
     # For the most adorable one.
+    import datetime
     date=datetime.datetime.today()
     if date.month==4:
         if date.day>=20:
